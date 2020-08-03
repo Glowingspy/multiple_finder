@@ -36,7 +36,7 @@ def main():
             print('---------------------')
             print(i)
             print('---')   
-           
+            #the one with the small amount of dashes shows the value           
     
     
 def begin():
